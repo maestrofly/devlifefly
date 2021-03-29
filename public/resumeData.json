@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name": "Derrick Alberto Darku",
+    "occupation": "Web Developer",
+    "description": "Versatile Software Developer with more than 4 years of experience with production-level projects and interacting with international clients",
+    "image": "face.JPG",
+    "bio": "My name is D.A.D, I'm a WEB Developer. Currently, I'm honing my skills at CODETRAIN while also mentoring my colleagues. A self-directed leader with talent at cultivating a collaborative and supportive team environment. I enjoy being challenged and engaged with projects that require me to work beyond my comfort and knowledge set, as I get to explore and learn new languages with different development techniques which are important for growth of any professional like me as well as the success of any organisation.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "derrickalberto@ymail.com",
+    "address": {
+      "street": "131 Race Course,",
+      "city": "Accra",
+      "Region": "Greater Accra",
+      "zip": "233"
+    },
+    "website": "https://greydad.wordpress.com/",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "#",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "#",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "#",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "#",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My proficiency in technologies that I used while developing production level applications",
+    "education": [
+      {
+        "school": "University of FLY",
+        "degree": "Masters in Computer Science",
+        "graduated": "May 2020",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "KNUST",
+        "degree": "Bachelors in Computer Engineering",
+        "graduated": "May 2016",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "DERRANDZ COMPANY",
+        "title": "Lead Developer",
+        "years": "May 2020 - Present",
+        "description": " node.js, React, Microservices, MySQL, REST APIs, "
+      },
+      {
+        "company": "TUNDA VALA LTD",
+        "title": "Computer Engineer",
+        "years": "Oct 2016 - July 2019",
+        "description": " MySQL, REST APIs, Maven, JPA, Jenkins, CI/CD, node.js, React"
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+     
+      {
+        "name": "Databases (MySQL, SQL, OracleDB, NoSQL)",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "96%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Macys, United States",
+        "category": "Completed project in two phases(BPM, Java, RESTful APIs, Microservices, MySQL, ReactJS, NodeJS)",
+        "image": "macysLogo.gif",
+        "url": "https://www.macys.com/"
+      },
+      {
+        "title": "Mondelez International",
+        "category": "Designed, developed, deployed, and migrated 32 applications in 6 months (PostGresql, ExpressJS, ReactJS, NodeJS)",
+        "image": "MDLZlogo.JPG",
+        "url": "https://www.mondelezinternational.com/"
+      },
+      {
+        "title": "Hershey",
+        "category": "Completed the project with client client satisfaction",
+        "image": "Hershey_logo.png",
+        "url": "https://www.hersheys.com/en_us/home.html"
+      },
+      {
+        "title": "Metro Systems",
+        "category": "Supported the team with code debugging and resolving client issues",
+        "image": "metro-systems-logo.png",
+        "url": "https://www.metrosystems.ro/en"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Cloned Amoazon's Shopping website in 5 days using React,Google Cloud, node.js, Stripe",
+        "image": "amazon.jpeg",
+        "url": "https://clone-23ff5.web.app/"
+      },
+      {
+        "title": "Facebook Clone",
+        "category": "Cloned Facebook website in 1 day using React,Google Cloud, node.js",
+        "image": "facebook.jpg",
+        "url": "https://facebook-by-nitish.web.app/"
+      },
+      {
+        "title": "COVID-19 Tracker",
+        "category": "It tracks the total number of COVID cases in the worls and each country.",
+        "image": "corona.png",
+        "url": "https://covid-tracker-by-nitish.web.app/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Derrick has been a very hard working and dependable consultant. He understands the business requirements and goes extra mile to deliver it. Highly professional and great value add to any team.",
+        "user": "Max Dwamena,  Ex-Principal Consultant at derrandz company"
+      },
+      {
+        "text": "I had worked with Derrick in Tunda Vala for more than 1 year, I was senior to him. I had the pleasure of working with him. His dedication toward his work was outstanding and he always had positive attitude toward new learning. He is dedicated, self-motivated, trustworthy, independent and very capable. Derrick would be an asset to any Company.",
+        "user": "Kofi  Jamal, Technology Lead at Tunda Vala"
+      }
+    ]
+  }
+}
