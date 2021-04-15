@@ -61,29 +61,28 @@ class Header extends Component {
           <div className="banner-text">
             <h1 className="responsive-headline">{name}</h1>
             <h3>
-              "Versatile Senior Software Developer with more than 4 years of
+              "Versatile Web Developer with more than 4 years of
               experience in production-level projects and interacting with
-              international clients - The Hershey, Metro Systems, and
-              Mondelez International"
+              international clients "
             </h3>
-            <h3>Java|C#|Python|SAP|React|Node.js|JS|SQL|MongoDB</h3>
+            <h3>HTML|CSS|JS||ReactJs|Node.js|React Native|SQL|MongoDB</h3>
             <h3>
               <a className='site_link' href="https://clone-23ff5.web.app/">
-                Cloned Amazon Shopping Website in 5 Days
+                Cloned boobeletas Shopping Website in 5 Days
               </a>
             </h3>
             <h3>
               <a className='site_link' href="https://facebook-by-nitish.web.app/">
-                Cloned Facebook in 1 Day
+                Cloned MZee plantshop in 1 Day
               </a>
             </h3>
             <h3>
               <a className='site_link' href="https://covid-tracker-by-nitish.web.app/">
-                COVID-19 Tracker
+                handy Tracker for blue collar workers
               </a>
             </h3>
             <h3>
-              <a className='site_link' href="https://learnwithnitish.wordpress.com/">Personal Blog</a>
+              <a className='site_link' href="https://greydad.wordpress.com/">Personal Blog</a>
             </h3>
 
             <hr />

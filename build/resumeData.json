@@ -4,7 +4,7 @@
     "occupation": "Web Developer",
     "description": "Versatile Software Developer with more than 4 years of experience with production-level projects and interacting with international clients",
     "image": "face.JPG",
-    "bio": "My name is Derrick Alberto Darku, I'm a WEB Developer. Currently, I'm honing my skills at CODETRAIN while also mentoring my colleagues. A self-directed leader with talent at cultivating a collaborative and supportive team environment. I enjoy being challenged and engaged with projects that require me to work beyond my comfort and knowledge set, as I get to explore and learn new languages with different development techniques which are important for growth of any professional like me as well as the success of any organisation.",
+    "bio": "My name is D.A.D, I'm a WEB Developer. Currently, I'm honing my skills at CODETRAIN while also mentoring my colleagues. A self-directed leader with talent at cultivating a collaborative and supportive team environment. I enjoy being challenged and engaged with projects that require me to work beyond my comfort and knowledge set, as I get to explore and learn new languages with different development techniques which are important for growth of any professional like me as well as the success of any organisation.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "derrickalberto@ymail.com",
     "address": {
@@ -18,22 +18,22 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://m.facebook.com/Maestrofly3",
+        "url": "#",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/mwlite/in/derrick-alberto-darku-06b0555a",
+        "url": "#",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/mister_dee8/",
+        "url": "#",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/maestrofly",
+        "url": "#",
         "className": "fa fa-github"
       }
     ]
@@ -41,7 +41,12 @@
   "resume": {
     "skillmessage": "My proficiency in technologies that I used while developing production level applications",
     "education": [
-      
+      {
+        "school": "University of FLY",
+        "degree": "Masters in Computer Science",
+        "graduated": "May 2020",
+        "description": "Graduated with Distinction"
+      },
       {
         "school": "KNUST",
         "degree": "Bachelors in Computer Engineering",
